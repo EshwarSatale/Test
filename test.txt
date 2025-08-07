@@ -1,3 +1,4 @@
 hello
+testing conflict
 this is second commit
 branch1 changes
