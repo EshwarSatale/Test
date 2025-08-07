@@ -1,4 +1,6 @@
 hello
 testing conflict
+heyy
 this is second commit
 branch1 changes
+new branch1 changes
